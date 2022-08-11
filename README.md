@@ -11,3 +11,11 @@ Die beteiligten Rennställe konstruieren Autos, die den in den Formel-1-Regeln f
  
 Für mehr Information klicken sie [hier](www.formula1.com)
 
+
+<a href="https://www.formula1.com/" rel="some text">![Foo](https://user-images.githubusercontent.com/111046375/184101441-9a2a6313-6c3b-4e1a-916e-05f4003fcd77.png)
+</a>
+
+
+`Formula 1`
+
+`*Formula 1*`          <code>`Formula 1`</code> 

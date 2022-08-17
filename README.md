@@ -9,7 +9,7 @@ Die beteiligten Rennställe konstruieren Autos, die den in den Formel-1-Regeln f
 
  ![grafik](https://user-images.githubusercontent.com/111046375/184094608-7b5f0507-9a68-4f3a-a41f-6aba87474d91.png)
  
-Für mehr Information klicken sie [hier](www.formula1.com)
+Für mehr Information klicken sie [hier](https://www.formula1.com)
 
 
 <a href="https://www.formula1.com/" rel="some text">![Foo](https://user-images.githubusercontent.com/111046375/184101441-9a2a6313-6c3b-4e1a-916e-05f4003fcd77.png)
